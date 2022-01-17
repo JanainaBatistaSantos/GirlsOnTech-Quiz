@@ -1,0 +1,42 @@
+C:\Users\User\source\repos\proj_quizgot\proj_quizgot\bin\Debug\proj_quizgot.exe.config
+C:\Users\User\source\repos\proj_quizgot\proj_quizgot\bin\Debug\proj_quizgot.exe
+C:\Users\User\source\repos\proj_quizgot\proj_quizgot\bin\Debug\proj_quizgot.pdb
+C:\Users\User\source\repos\proj_quizgot\proj_quizgot\obj\Debug\proj_quizgot.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\proj_quizgot\proj_quizgot\obj\Debug\proj_quizgot.frmQuiz.resources
+C:\Users\User\source\repos\proj_quizgot\proj_quizgot\obj\Debug\proj_quizgot.Properties.Resources.resources
+C:\Users\User\source\repos\proj_quizgot\proj_quizgot\obj\Debug\proj_quizgot.csproj.GenerateResource.cache
+C:\Users\User\source\repos\proj_quizgot\proj_quizgot\obj\Debug\proj_quizgot.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\proj_quizgot\proj_quizgot\obj\Debug\proj_quizgot.exe
+C:\Users\User\source\repos\proj_quizgot\proj_quizgot\obj\Debug\proj_quizgot.pdb
+C:\Users\User\source\repos\proj_quizgot\proj_quizgot\obj\Debug\proj_quizgot.frmP1.resources
+C:\Users\User\source\repos\proj_quizgot\proj_quizgot\obj\Debug\proj_quizgot.frmFinal.resources
+C:\Users\User\source\repos\proj_quizgot\proj_quizgot\obj\Debug\proj_quizgot.frmP10.resources
+C:\Users\User\source\repos\proj_quizgot\proj_quizgot\obj\Debug\proj_quizgot.frmP2.resources
+C:\Users\User\source\repos\proj_quizgot\proj_quizgot\obj\Debug\proj_quizgot.frmP3.resources
+C:\Users\User\source\repos\proj_quizgot\proj_quizgot\obj\Debug\proj_quizgot.frmP4.resources
+C:\Users\User\source\repos\proj_quizgot\proj_quizgot\obj\Debug\proj_quizgot.frmP5.resources
+C:\Users\User\source\repos\proj_quizgot\proj_quizgot\obj\Debug\proj_quizgot.frmP6.resources
+C:\Users\User\source\repos\proj_quizgot\proj_quizgot\obj\Debug\proj_quizgot.frmP7.resources
+C:\Users\User\source\repos\proj_quizgot\proj_quizgot\obj\Debug\proj_quizgot.frmP8.resources
+C:\Users\User\source\repos\proj_quizgot\proj_quizgot\obj\Debug\proj_quizgot.frmP9.resources
+C:\Users\thesl\OneDrive\Área de Trabalho\proj_quizgot\proj_quizgot\bin\Debug\proj_quizgot.exe.config
+C:\Users\thesl\OneDrive\Área de Trabalho\proj_quizgot\proj_quizgot\bin\Debug\proj_quizgot.exe
+C:\Users\thesl\OneDrive\Área de Trabalho\proj_quizgot\proj_quizgot\bin\Debug\proj_quizgot.pdb
+C:\Users\thesl\OneDrive\Área de Trabalho\proj_quizgot\proj_quizgot\obj\Debug\proj_quizgot.csproj.AssemblyReference.cache
+C:\Users\thesl\OneDrive\Área de Trabalho\proj_quizgot\proj_quizgot\obj\Debug\proj_quizgot.frmQuiz.resources
+C:\Users\thesl\OneDrive\Área de Trabalho\proj_quizgot\proj_quizgot\obj\Debug\proj_quizgot.frmFinal.resources
+C:\Users\thesl\OneDrive\Área de Trabalho\proj_quizgot\proj_quizgot\obj\Debug\proj_quizgot.frmP1.resources
+C:\Users\thesl\OneDrive\Área de Trabalho\proj_quizgot\proj_quizgot\obj\Debug\proj_quizgot.frmP10.resources
+C:\Users\thesl\OneDrive\Área de Trabalho\proj_quizgot\proj_quizgot\obj\Debug\proj_quizgot.frmP2.resources
+C:\Users\thesl\OneDrive\Área de Trabalho\proj_quizgot\proj_quizgot\obj\Debug\proj_quizgot.frmP3.resources
+C:\Users\thesl\OneDrive\Área de Trabalho\proj_quizgot\proj_quizgot\obj\Debug\proj_quizgot.frmP4.resources
+C:\Users\thesl\OneDrive\Área de Trabalho\proj_quizgot\proj_quizgot\obj\Debug\proj_quizgot.frmP5.resources
+C:\Users\thesl\OneDrive\Área de Trabalho\proj_quizgot\proj_quizgot\obj\Debug\proj_quizgot.frmP6.resources
+C:\Users\thesl\OneDrive\Área de Trabalho\proj_quizgot\proj_quizgot\obj\Debug\proj_quizgot.frmP7.resources
+C:\Users\thesl\OneDrive\Área de Trabalho\proj_quizgot\proj_quizgot\obj\Debug\proj_quizgot.frmP8.resources
+C:\Users\thesl\OneDrive\Área de Trabalho\proj_quizgot\proj_quizgot\obj\Debug\proj_quizgot.frmP9.resources
+C:\Users\thesl\OneDrive\Área de Trabalho\proj_quizgot\proj_quizgot\obj\Debug\proj_quizgot.Properties.Resources.resources
+C:\Users\thesl\OneDrive\Área de Trabalho\proj_quizgot\proj_quizgot\obj\Debug\proj_quizgot.csproj.GenerateResource.cache
+C:\Users\thesl\OneDrive\Área de Trabalho\proj_quizgot\proj_quizgot\obj\Debug\proj_quizgot.csproj.CoreCompileInputs.cache
+C:\Users\thesl\OneDrive\Área de Trabalho\proj_quizgot\proj_quizgot\obj\Debug\proj_quizgot.exe
+C:\Users\thesl\OneDrive\Área de Trabalho\proj_quizgot\proj_quizgot\obj\Debug\proj_quizgot.pdb
